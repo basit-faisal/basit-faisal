@@ -64,11 +64,9 @@ Check out my repositories: [GitHub Repositories](https://github.com/basit-faisal
 ![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=basit-faisal&show_icons=true&theme=dark)
 
 ---
-https://github.com/basit-faisal/basit-faisal/blob/main/BasitFaisal_Resume.pdf
 
 ## 🌐 **Find Me Online**
 - 💼 [LinkedIn](https://linkedin.com/in/basitfaisal)
-- 📂 [Resume](https://raw.githubusercontent.com/basit-faisal/basit-faisal/blob/main/BasitFaisal_Resume.pdf) *(Downloadable!)*
 - 🌐 [Portfolio Website](#) *(Coming Soon!)*
 
 ---
