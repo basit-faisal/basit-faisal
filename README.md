@@ -67,7 +67,7 @@ Check out my repositories: [GitHub Repositories](https://github.com/basit-faisal
 
 ## 🌐 **Find Me Online**
 - 💼 [LinkedIn](https://linkedin.com/in/basitfaisal)
-- 🌐 [Portfolio Website](#) *(Coming Soon!)*
+- 🌐 [Portfolio Website](https://basit-faisal.github.io/Portfolio/)
 
 ---
 
